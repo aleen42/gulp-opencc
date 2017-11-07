@@ -1,0 +1,36 @@
+{
+  "name": "gulp-opencc",
+  "version": "1.0.0",
+  "description": "A gulp plugin for converting Chinese based on OpenCC",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleen42/gulp-opencc.git"
+  },
+  "keywords": [
+    "opencc",
+    "gulp",
+    "gulp-plugin",
+    "gulpplugin",
+    "gulp-opencc"
+  ],
+  "author": "aleen42 <aleen42@vip.qq.com> (https://github.com/aleen42)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleen42/gulp-opencc/issues"
+  },
+  "homepage": "https://github.com/aleen42/gulp-opencc#readme",
+  "dependencies": {
+    "node-opencc": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-node-module": "^2.0.5",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2"
+  }
+}

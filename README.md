@@ -7,7 +7,7 @@
 [![Build Status](https://travis-ci.org/aleen42/gulp-opencc.svg?branch=master)](https://travis-ci.org/aleen42/gulp-opencc)
 [![npm](https://img.shields.io/npm/dt/gulp-opencc.svg)](https://www.npmjs.com/package/gulp-opencc)
 
-A Gulp plugin for convert chinese based on OpenCC
+A Gulp plugin for convert chinese based on [**OpenCC**](https://github.com/BYVoid/OpenCC).
 
 ### Usage
 
